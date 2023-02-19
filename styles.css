@@ -1,7 +1,8 @@
 table {
     border-collapse:  collapse;
+    caption-side: bottom;
 }
-td, th {
+td, th  {
     border: 1px black solid;
     padding: 5px;
 }
